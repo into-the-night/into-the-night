@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🚀 Hello there, I'm Abhay!
+👨‍💻 Building cool stuff here n' there
 
-<!--
-**into-the-night/into-the-night** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+💻 Languages: Python, JavaScript
 
-Here are some ideas to get you started:
+🌐 Web: FastAPI, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Databases: AWS, MongoDB, Redis
+
+🧠 AI/ML: PyTorch, LlamaIndex, Tensorflow
+
+## 🎮 Fun Stuff
+- Side Projects: AI chatbots, gamified apps, knowledge graphs
+- Hackathons: Always up for a challenge!
+
+## 📫 Reach Out
+📝 [Substack](https://abhayshukla.substack.com/)
+
+🐦 [LinkedIn](https://www.linkedin.com/in/abhay-shukla-/)
+
+📧 Email me at: abhayshuklaistheone@gmail.com
