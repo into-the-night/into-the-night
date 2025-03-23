@@ -14,7 +14,7 @@
 
 ## 🎮 Fun Stuff
 - Side Projects: AI chatbots, gamified apps, knowledge graphs
-- Hackathons: Always up for a challenge!
+- Hackathons: Global Nominee @NASA SpaceApps and hungry for more!
 
 ## 📫 Reach Out
 📝 [Substack](https://abhayshukla.substack.com/)
