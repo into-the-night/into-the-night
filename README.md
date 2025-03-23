@@ -1,5 +1,7 @@
-## 🚀 Hello there, I'm Abhay!
-👨‍💻 Building cool stuff here n' there
+## 👋🏻 Hello there, I'm Abhay!
+👨‍💻 ex-SWE Intern @Dobr.AI
+
+🚀 Building cool stuff here n' there
 
 ## 🔧 Tech Stack
 💻 Languages: Python, JavaScript
