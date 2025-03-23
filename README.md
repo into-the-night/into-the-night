@@ -13,7 +13,7 @@
 🧠 AI/ML: PyTorch, LlamaIndex, Tensorflow
 
 ## 🎮 Fun Stuff
-- Side Projects: AI chatbots, gamified apps, knowledge graphs
+- Side Projects: AI chatbots, RL and RAG apps
 - Hackathons: Global Nominee @NASA SpaceApps and hungry for more!
 
 ## 📫 Reach Out
