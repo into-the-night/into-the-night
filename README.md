@@ -1,16 +1,16 @@
 ## 👋🏻 Hello there, I'm Abhay!
-👨‍💻 ex-SWE Intern @Dobr.AI
+👨‍💻 AI Engineer Intern @Kairos Computer, ex-SWE Intern @Dobr.AI
 
 🚀 Building cool stuff here n' there
 
 ## 🔧 Tech Stack
 💻 Languages: Python, JavaScript
 
-🌐 Web: FastAPI, React
+🌐 Web: FastAPI, React.js
 
-📦 Databases: AWS, MongoDB, Redis
+📦 Databases: AWS, MongoDB, Redis, Supabase
 
-🧠 AI/ML: PyTorch, LlamaIndex, Tensorflow
+🧠 AI/ML: PyTorch, LlamaIndex, Tensorflow, LangChain, FastMCP
 
 ## 🎮 Fun Stuff
 - Side Projects: AI chatbots, RL and RAG apps
