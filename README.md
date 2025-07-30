@@ -1,5 +1,5 @@
 ## 👋🏻 Hello there, I'm Abhay!
-👨‍💻 ML Engineer Intern @Kairos Computer, ex-SWE Intern @Dobr.AI
+👨‍💻 AI Engineer Intern @Kairos Computer, ex-SWE Intern @Dobr.AI
 
 🚀 Building cool stuff here n' there
 
