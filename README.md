@@ -1,5 +1,5 @@
 ## 👋🏻 Hello there, I'm Abhay!
-👨‍💻 AI/ML @Bold.AI, ex-AI Engineer Intern @Kairos Computer, SWE Intern @Dobr.AI
+👨‍💻 AI Native Intern @Zomato, ex- SWE Intern AI/ML @Bold.AI, AI Engineer Intern @Kairos Computer, SWE Intern @Dobr.AI
 
 🚀 Building cool stuff here n' there
 
@@ -10,10 +10,10 @@
 
 📦 Databases: AWS, MongoDB, Redis, Supabase
 
-🧠 AI/ML: PyTorch, LlamaIndex, Tensorflow, LangChain, FastMCP
+🧠 AI/ML: PyTorch, LlamaIndex, Tensorflow, LangChain, FastMCP, sentence-transformers
 
 ## 🎮 Fun Stuff
-- Side Projects: AI chatbots, RL and RAG apps
+- Side Projects: AI agents, RL and RAG systems
 - Hackathons: Global Nominee @NASA SpaceApps and hungry for more!
 
 ## 📫 Reach Out
